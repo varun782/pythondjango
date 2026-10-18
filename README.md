@@ -1,3 +1,5 @@
+Live deploy link : https://scopetrace-platform.vercel.app/
+
 <div align="center">
 
 # ScopeTrace
@@ -6,10 +8,6 @@
 
 A production-grade, full-stack platform for corporate greenhouse-gas accounting — ingesting emissions data from heterogeneous enterprise sources, computing explainable CO₂e across Scopes 1/2/3, enforcing a tamper-evident governance & approval workflow, and layering **advisory-only, fully-governed AI** on top of a deterministic core.
 
-[![Backend CI](https://github.com/Utkarshum7/scopetrace-platform/actions/workflows/backend-ci.yml/badge.svg)](https://github.com/Utkarshum7/scopetrace-platform/actions/workflows/backend-ci.yml)
-[![Frontend CI](https://github.com/Utkarshum7/scopetrace-platform/actions/workflows/frontend-ci.yml/badge.svg)](https://github.com/Utkarshum7/scopetrace-platform/actions/workflows/frontend-ci.yml)
-[![Docker Build Verification](https://github.com/Utkarshum7/scopetrace-platform/actions/workflows/docker-build.yml/badge.svg)](https://github.com/Utkarshum7/scopetrace-platform/actions/workflows/docker-build.yml)
-[![Secret Scan](https://github.com/Utkarshum7/scopetrace-platform/actions/workflows/secret-scan.yml/badge.svg)](https://github.com/Utkarshum7/scopetrace-platform/actions/workflows/secret-scan.yml)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-2ebb72)
 ![License](https://img.shields.io/badge/license-MIT-blue)
